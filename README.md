@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 </head>
 <body>
-<h1><text-align=center>欢迎来到我们的主页</text-align=center></h1>
+<h1><center>欢迎来到我们的主页</center></h1>
 <h2 style="color:blue;">小组作业</h2>
 <h5>组长：林彤   学号：3180432005</h5> 
 <h5>组员：郑洁   学号：3180432006</h5>
