@@ -16,7 +16,7 @@
 </p>
 <h3 style="color:blue;">各类典型信号对应的频谱</h3>
 <p>
-<p1><a href="https://github.com/13123891831/hello/blob/master/task.doc">2.开题报告</a></p1>
+<p1><a href="https://github.com/13123891831/hello/blob/master/task.doc">1.任务安排</a></p1>
 </p>
 <p>
 <p1><a href="https://github.com/13123891831/hello/blob/master/report.docx">2.开题报告</a></p1>
