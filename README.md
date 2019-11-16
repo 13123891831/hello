@@ -1,4 +1,4 @@
-<！DOCTYPE html>
+<IDOCTYPE html>
 <head>
 <meta charset="utf-8">
 <title>欢迎来到我们的主页</title>
