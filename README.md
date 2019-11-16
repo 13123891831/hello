@@ -1,9 +1,9 @@
 <IDOCTYPE html>
 <head>
 <meta charset="utf-8">
-<title>欢迎来到我们的主页</title>
 </head>
 <body>
+<h1>欢迎来到我们的主页</h1>
 <h1 style="color:blue;">小组作业</h1>
 <br>
 <h2>组长：林彤 学号：3180432005</h2> 
