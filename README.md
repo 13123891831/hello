@@ -19,7 +19,7 @@
 <p1>1.任务安排</p1>
 </p>
 <p>
-<p1><a href="https://github.com/13123891831/hello/blob/master/report">2.开题报告</a></p1>
+<p1><a href="https://github.com/13123891831/hello/blob/master/report.docx">2.开题报告</a></p1>
 </p>
 <p>
 <p1>3.大作业</p1>
