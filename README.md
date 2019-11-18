@@ -11,16 +11,16 @@
 <h4>组员：郑洁   学号：3180432006</h4>
 <h4>组员：王洁仪 学号：3180432004</h4>
 <p>
-<p1>
-<img src="timg.jpg"alt="timg.jpg" style="float:right" >
+<img src="timg.jpg" >
 <br>
-</p1> 经过一段时间的学习，信号与系统大作业终于完成。
-</p>
+</p> 经过一段时间的学习，信号与系统大作业终于完成。
 <h3 style="color:blue;">各类典型信号对应的频谱</h3>
 <p>
 <p1>1.任务安排</p1>
 </p>
+<p>
 <img src="task.png"alt="task.png" width="500" height="500">
+</p>
 <p>
 <p1><a href="https://github.com/13123891831/hello/blob/master/report">2.开题报告</a></p1>
 </p>
