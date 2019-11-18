@@ -19,7 +19,7 @@
 <p1>1.任务安排</p1>
 </p>
 <p>
-<img src="task.png">
+<img src="task.png"alt="task.png" width="400" height="400">
 </p>
 <p>
 <p1>2.实验步骤</p1>
