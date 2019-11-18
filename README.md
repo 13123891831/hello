@@ -11,7 +11,7 @@
 <h4>组员：郑洁   学号：3180432006</h4>
 <h4>组员：王洁仪 学号：3180432004</h4>
 <p>
-<img src="timg.jpg" >
+<img src="timg.jpg">
 <br>
 </p> 经过一段时间的学习，信号与系统大作业终于完成。
 <h3 style="color:blue;">各类典型信号对应的频谱</h3>
@@ -28,13 +28,13 @@
 （3）绘图窗口出现信号图及其频谱图<br>
 （4）调整参数并记录
 </p>
-<p1><a href="https://github.com/13123891831/hello/blob/master/report">2.开题报告</a></p1>
+<p1>3.程序</p1>
 </p>
 <p>
-<p1>3.大作业</p1>
+<p1>4.大作业</p1>
 </p>
 <p>
-<p1><a href="https://github.com/13123891831/hello/blob/master/ppt.pptx">4.PPT</a></p1>
+<p1><a href="https://github.com/13123891831/hello/blob/master/ppt.pptx">5.PPT</a></p1>
 </p>
 </body>
 </html>
