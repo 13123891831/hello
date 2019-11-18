@@ -22,6 +22,12 @@
 <img src="task.png">
 </p>
 <p>
+<p1>2.实验步骤</p1>
+<p>(1） pycharm新建项目，导入matplotlib,numpy，新建Python文件<br>
+（2） 输入绘制图形和频谱代码，运行当前文件<br>
+（3）绘图窗口出现信号图及其频谱图<br>
+（4）调整参数并记录
+</p>
 <p1><a href="https://github.com/13123891831/hello/blob/master/report">2.开题报告</a></p1>
 </p>
 <p>
