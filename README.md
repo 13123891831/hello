@@ -19,7 +19,7 @@
 <p1>1.任务安排</p1>
 </p>
 <p>
-<img src="task.png"alt="task.png" width="500" height="500">
+<img src="task.png">
 </p>
 <p>
 <p1><a href="https://github.com/13123891831/hello/blob/master/report">2.开题报告</a></p1>
