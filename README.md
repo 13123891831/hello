@@ -32,7 +32,11 @@
 </p>
  <p>
  <img src="123.png"alt="123.png" width="400" height="400">
+  </p>
+ <p>
  <img src="1234.png"alt="1234.png" width="400" height="400">
+  </p>
+ <p>
  <img src="12345.png"alt="12345.png" width="400" height="400">
   </p>
 <p>
