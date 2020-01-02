@@ -31,8 +31,8 @@
 <p1><b>3.程序</b></p1>
 </p>
  <img src="123.png"alt="123.png" width="500" height="500">
- <img src="1234.png"alt="123.png" width="500" height="500">
- <img src="12345.png"alt="123.png" width="500" height="500">
+ <img src="1234.png"alt="1234.png" width="500" height="500">
+ <img src="12345.png"alt="12345.png" width="500" height="500">
 <p>
 <p1><b>4.结论</b></p1>
 </p>
