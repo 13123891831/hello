@@ -34,10 +34,12 @@
  <img src="1234.png"alt="123.jpg" width="500" height="500">
  <img src="12345.png"alt="123.jpg" width="500" height="500">
 <p>
-<p1><b>4.</b></p1>
+<p1><b>4.结论</b></p1>
 </p>
-<p>
-<p1><a href="https://github.com/13123891831/hello/blob/master/ppt.pptx"><b>5.PPT</b></a></p1>
+ <p>
+1：运用python成功编写出画出信号图形与频谱的代码。
+2：各类常见的信号都能通过代码。能画出各类典型信号图形，并画出其对应频谱（包括离散信号和连续信号）
+3：程序符合要求。
 </p>
 </body>
 </html>
